@@ -1,2 +1,2 @@
-# GIT
+# HTML
 Freshers Syllabus - HTML
