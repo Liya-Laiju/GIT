@@ -1,2 +1,2 @@
 # GIT
-Freshers Syllabus - GIT
+Freshers Syllabus - HTML
